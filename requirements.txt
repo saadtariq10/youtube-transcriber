@@ -1,0 +1,5 @@
+# youtube-transcript-api
+python-dotenv
+groq
+streamlit
+youtube-transcript-api==0.6.3
